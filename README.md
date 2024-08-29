@@ -1,14 +1,14 @@
-## title
+## Title
 
-##Table of Contents
+## Table of Contents
 
-[DIUCT](#diuct)
-[License](#License)
+[DIUCT](#DIUCT)<br/>
+[License](#License)<br/>
 [Questions](#Questions)
 
 ## Description, Installation instructions, Usage information, Contribution guidelines, and Test instructions
 
-<a name = "diuct"/>diuct
+Using this module to create a README file
 
 ## License 
 
@@ -16,6 +16,6 @@
 
 ## Questions
 
-github
+Github
 
-email
+Email
